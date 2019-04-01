@@ -1,5 +1,5 @@
 # iotacontractsystem
- A Peer to peer contract software based on IOTA implemented in Python 2.7.
+ A Peer to peer contract software based on IOTA implemented in Python 2.7 & PyQT4 
 
 ## About 
 
