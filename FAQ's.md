@@ -10,7 +10,6 @@ Generate your seed on linux:
 
 Open Terminal and type or paste the following then press enter:
 
-'''
+```
 cat /dev/urandom |tr -dc A-Z9|head -c${1:-81}
-'''
-
+```
