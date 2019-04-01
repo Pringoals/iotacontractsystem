@@ -9,9 +9,9 @@ To make the system simple to use, A contract wizard has been implemeneted that a
 
 ## why IOTA?
  
-IOTA was chosen as the DLT for this proof of concept (POC) as it provided better performannce over "traditonal" Blockchain based DLT's tihs decission was taken after reserch into a variaty of trusted DLT developable platforms.
+IOTA was chosen as the DLT for this proof of concept (POC) as it provided better performannce over "traditonal" Blockchain based DLT's tihs decission was taken after reserch into a variaty of trusted DLT developable platforms. 
 
 ## Things left to implement 
 
-- MAM end to end encrption 
-- PyQt threading 
+- [] MAM end to end encrption 
+- [] PyQt threading 
