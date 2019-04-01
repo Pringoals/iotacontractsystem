@@ -13,7 +13,7 @@ IOTA was chosen as the DLT for this proof of concept (POC) as it provided better
 
 ![alt text](https://raw.githubusercontent.com/Hribek25/IOTA101/master/Graphics/Blockchain_And_Tangle_iota_org.png)
 
-Image from: 
+Image from: [Iota101](https://iota101.info/)
 
 ## Things left to implement 
 
