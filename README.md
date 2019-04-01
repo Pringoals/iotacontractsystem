@@ -13,5 +13,5 @@ IOTA was chosen as the DLT for this proof of concept (POC) as it provided better
 
 ## Things left to implement 
 
-- [] MAM end to end encrption 
-- [] PyQt threading 
+- [ ] MAM end to end encrption 
+- [ ] PyQt threading 
