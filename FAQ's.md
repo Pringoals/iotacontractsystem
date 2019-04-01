@@ -1,5 +1,5 @@
 
-# Frequently asked questions
+# Frequently Asked Questions
 
 To get started quickly it is reccomended to read the FAQ's prior to installing the software.
 
